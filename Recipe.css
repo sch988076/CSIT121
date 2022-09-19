@@ -1,0 +1,46 @@
+head {
+	color: hotpink;
+	background-color: black;
+	font-family: cursive;
+	text-align: center; 
+	margin: 8px;
+}
+body { 
+	color: white;
+	background-color: lavender;
+	text-align: center;
+	font-style: italic;
+	font-family: serif;
+	margin: 8px;
+}
+h1 {
+	color: black;
+	background-color: mediumpurple;
+	text-transform: capitalize;
+}
+p {
+	color: black;
+	background-color: lavenderblush; 
+	text-align: justify;
+	font-style: normal;
+	text-transform: uppercase;
+}
+ol {
+	color: white;
+	background-color: hotpink;
+	text-align: left;
+	font-style: normal;
+}
+li {
+	color:  black;
+	background-color: palevioletred;
+	text-align: left;
+	font-style: normal;
+	text-transform: lowercase;
+}
+ul {
+	color: white;
+	background-color: lavenderblush;
+	text-align: left;
+	font-style: normal;
+}
